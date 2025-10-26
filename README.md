@@ -20,3 +20,7 @@ Includes:
 - Data and control hazard resolution  
 - Instruction and data memory modules  
 - Fully synthesizable on **Basys 3 (Artix-7)** FPGA  
+
+## Demo
+Demo of MIPS processor computing Fibonacci number sequence and outputting to a 7-segment display:  
+[![MIPS Processor Demo](https://img.youtube.com/vi/hcZKd-PMrHA/0.jpg)](https://youtu.be/hcZKd-PMrHA)
